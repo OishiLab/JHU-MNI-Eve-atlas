@@ -23,9 +23,8 @@ Neuroimage. 2009 Jun;46(2):486-99. doi: 10.1016/j.neuroimage.2009.01.002. PMID: 
 (https://pubmed.ncbi.nlm.nih.gov/19385016/)
 
 ## Download JHU-MNI atlas
-1. **Dowonoad DtiStudio.exe**<br>
-   For general users, here is the link (https://www.mristudio.org)<br>
-   **for JHU-BME students:** get DtiStudio_64_Apr_2019.exe and sample data from (https://drive.google.com/drive/folders/1wxxKQ5bRUoK3G5c2KRl6TVHtmbdCpSHO?usp=share_link). Put them under Mackintosh HD/Users/<your_account>/MRIStudio/ <br>
+1. **Dowonoad link**<br>
+   [Link](https://forms.office.com/r/7EsyRaniSq)
     
 
 ```
